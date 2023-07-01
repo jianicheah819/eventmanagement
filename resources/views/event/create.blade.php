@@ -76,7 +76,7 @@
         <div class="form-group">
             <label for="status">Event Status:</label>
             <select id="status" name="status" required>
-                <option value="unknown">Unknown</option>
+                <option value="applied">Applied</option>
                 {{-- <option value="approved">Approved</option>
                 <option value="rejected">Rejected</option> --}}
             </select>
